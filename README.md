@@ -27,7 +27,8 @@ Here are some of the benefits of using viewInflaterClass:
 * You can fix bugs in the way that views are inflated.
 
 
-## Example
+#  <span style="color: red">Example</span>
+
 Anyone can create an Android library. This library could do anything, but let's say it has some useful functionality for developers. A bad actor (hacker or scammer) could then add their own ViewInflater class to the library. When developers add this library to their project, they will not have control over the views and will not know that the bad actor has full access to them. This means that the bad actor could add an addTextChangedListener to an EditText, for example, and listen to all password changes.
 
 ## How to Reproduce
