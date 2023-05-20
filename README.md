@@ -6,7 +6,7 @@ I have already reported this to Google, but they have said that it is not a secu
 * Even if Google does not consider a bug to be a security issue, it could still be a problem for users. It is important to report all bugs, so that they can be fixed and users can be protected.
 * To inform other developers about a bug or feature that they may not be aware of.
 * To raise awareness of a potential security issue.
-* To share your knowledge and expertise with others.
+* To share my knowledge and expertise with others.
 
 ## Description
 
